@@ -1,0 +1,22 @@
+
+body{
+    font-family: 'Merriweather Sans', sans-serif;
+}
+input[type='file'] {
+    color: rgba(0, 0, 0, 0)
+ }
+
+ /* bg-emerald-500
+ 
+  */
+ .form{
+     background-color: #90c161;
+ }
+
+ .select{
+    width: 260px;
+ }
+
+ input{
+   padding: 0px 30px;
+ }
